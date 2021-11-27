@@ -60,7 +60,21 @@ desenhar 🎨.
 <br />
 <br />
 
-## Conhecimentos básicos
+## Ilustrações/Prototipação
+<a href="https://krita.org/en/" />
+  <img src="https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B" />
+</a>
+<a href="https://www.canva.com/" />
+  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" />
+</a>
+<a href="https://www.figma.com/" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+</a>
+<a href="https://inkscape.org/pt-br/" />
+  <img src="https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=Inkscape&logoColor=white" />
+</a>
+
+## Outras ferramentas
 <a href="https://chakra-ui.com/" />
   <img src="https://img.shields.io/badge/Chakra--UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white" />
 </a>
@@ -84,19 +98,6 @@ desenhar 🎨.
 <br />
 <br />
 
-## Ilustrações/Prototipação
-<a href="https://krita.org/en/" />
-  <img src="https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B" />
-</a>
-<a href="https://www.canva.com/" />
-  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" />
-</a>
-<a href="https://www.figma.com/" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-</a>
-<a href="https://inkscape.org/pt-br/" />
-  <img src="https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=Inkscape&logoColor=white" />
-</a>
 <!--
 ## IDEs/Editores
 <a href="https://www.eclipse.org/" />
