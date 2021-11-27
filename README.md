@@ -84,7 +84,7 @@ desenhar 🎨.
 <br />
 <br />
 
-## Design/Prototipação
+## Ilustrações/Prototipação
 <a href="https://krita.org/en/" />
   <img src="https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B" />
 </a>
