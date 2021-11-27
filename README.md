@@ -1,29 +1,39 @@
+<div align=center>
+  
 # Meu perfil
 Sou estudante do curso de bacharelado em Sistemas de Informação e adoro aprender conteúdos novos e me atualizar. No tempo livre também gosto de jogar videogame 🎮 e
 desenhar 🎨.
-
+<br />
+<br />
 ## Repositórios
-
+  
 [![Web Scrapping em Python](https://github-readme-stats.vercel.app/api/pin/?username=rarants&repo=Web-Scraping-em-Python-PET-Redacao&theme=radical&hide_border=tru)](https://github.com/rarants/Web-Scraping-em-Python-PET-Redacao)
 [![Oficina de Introdução à Python](https://github-readme-stats.vercel.app/api/pin/?username=rarants&repo=Oficina-Python-PET-SI&theme=radical&hide_border=tru)](https://github.com/rarants/Oficina-Python-PET-SI)
 [![Usando Apache Zookeper em Python com Kazoo](https://github-readme-stats.vercel.app/api/pin/?username=rarants&repo=Estudo_Zookeeper_Kazoo&theme=radical&hide_border=tru)](https://github.com/rarants/Estudo_Zookeeper_Kazoo)
 [![JDBC Métodos CRUD](https://github-readme-stats.vercel.app/api/pin/?username=rarants&repo=Conexao_MySQL_Metodos_CRUD&theme=radical&hide_border=tru)](https://github.com/rarants/Conexao_MySQL_Metodos_CRUD)
-
+  
+<br />
+<br />
 
 ## 📊 Stats Gerais
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rarants&show_icons=true&locale=pt-br&border_radius=10px&hide_border=true&theme=radical" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rarants&locale=pt-br&hide_border=true&theme=radical&border_radius=10px&layout=compact" />
-</a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=rarants&show_icons=true&locale=pt-br&border_radius=10px&hide_border=true&theme=radical" />
+  </a>
+  <br />
+  <br />
+  <a href="https://github.com/anuraghazra/convoychat">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rarants&locale=pt-br&hide_border=true&theme=radical&border_radius=10px&layout=compact" />
+  </a>
+  <br />
+  <br />
+  <a href="https://github.com/anuraghazra/convoychat">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rarants&locale=pt-br&hide_border=true&theme=radical&border_radius=10px" />
+  </a>
 
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rarants&locale=pt-br&hide_border=true&theme=radical&border_radius=10px&layout=compact" />
-</a>
-<hr />
-
-### Linguagens e ferramentas em uso
+<br />
+<br />
+  
+## Linguagens e ferramentas em uso
 <a href="/" />
   <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
 </a>
@@ -54,9 +64,12 @@ desenhar 🎨.
 <a href="/" />
   <img src="https://img.shields.io/badge/Socket.io-010101?&style=for-the-badge&logo=Socket.io&logoColor=white" />
 </a>
-<hr />
 
-### Conhecimentos básicos
+<br />
+<br />
+
+
+## Conhecimentos básicos
 <a href="/" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
 </a>
@@ -82,7 +95,11 @@ desenhar 🎨.
   <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" />
 </a>
 
-### Plataformas de trabalho
+
+<br />
+<br />
+
+## Plataformas de trabalho
 <a href="/" />
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" />
   <!--<img src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white" /> -->
@@ -108,3 +125,4 @@ desenhar 🎨.
   <img src="https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=Inkscape&logoColor=white" />
   <img src="https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B" />
  </a>
+</div>
