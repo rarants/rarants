@@ -107,7 +107,7 @@ desenhar 🎨.
 <a href="https://www.jetbrains.com/pt-br/idea/" />
   <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
 </a>
-
+<!--
 ## Outras plataformas e ferramentas
 <a href="https://eslint.org/" />
   <img src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white" />
@@ -136,3 +136,4 @@ desenhar 🎨.
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />
 </a>
 </div>
+-->
