@@ -54,9 +54,6 @@ desenhar 🎨.
 <a href="https://socket.io/" />
   <img src="https://img.shields.io/badge/Socket.io-010101?&style=for-the-badge&logo=Socket.io&logoColor=white" />
 </a>
-<a href="https://www.mysql.com/" />
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-</a>
 <br />
 <br />
 
@@ -135,6 +132,10 @@ desenhar 🎨.
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <a href="https://www.postman.com/" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />
+</a>
+
+<a href="https://www.mysql.com/" />
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 </a>
 </div>
 -->
