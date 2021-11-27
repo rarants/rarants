@@ -11,25 +11,18 @@ desenhar 🎨.
 [![Oficina de Introdução à Python](https://github-readme-stats.vercel.app/api/pin/?username=rarants&repo=Oficina-Python-PET-SI&theme=radical&hide_border=tru)](https://github.com/rarants/Oficina-Python-PET-SI)
 [![Usando Apache Zookeper em Python com Kazoo](https://github-readme-stats.vercel.app/api/pin/?username=rarants&repo=Estudo_Zookeeper_Kazoo&theme=radical&hide_border=tru)](https://github.com/rarants/Estudo_Zookeeper_Kazoo)
 [![JDBC Métodos CRUD](https://github-readme-stats.vercel.app/api/pin/?username=rarants&repo=Conexao_MySQL_Metodos_CRUD&theme=radical&hide_border=tru)](https://github.com/rarants/Conexao_MySQL_Metodos_CRUD)
-  
 <br />
 <br />
 
-## 📊 Stats Gerais
+## Stats Gerais
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=rarants&show_icons=true&locale=pt-br&border_radius=10px&hide_border=true&theme=radical" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=rarants&show_icons=true&locale=pt-br&border_radius=10px&hide_border=true&theme=radical&count_private=true&show_owner" />
   </a>
   <br />
   <br />
   <a href="https://github.com/anuraghazra/convoychat">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rarants&locale=pt-br&hide_border=true&theme=radical&border_radius=10px&layout=compact" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rarants&locale=pt-br&hide_border=true&theme=radical&border_radius=10px&show_owner=true" />
   </a>
-  <br />
-  <br />
-  <a href="https://github.com/anuraghazra/convoychat">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rarants&locale=pt-br&hide_border=true&theme=radical&border_radius=10px" />
-  </a>
-
 <br />
 <br />
   
@@ -64,10 +57,8 @@ desenhar 🎨.
 <a href="/" />
   <img src="https://img.shields.io/badge/Socket.io-010101?&style=for-the-badge&logo=Socket.io&logoColor=white" />
 </a>
-
 <br />
 <br />
-
 
 ## Conhecimentos básicos
 <a href="/" />
@@ -94,8 +85,6 @@ desenhar 🎨.
 <a href="/" />
   <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" />
 </a>
-
-
 <br />
 <br />
 
