@@ -15,11 +15,12 @@ desenhar 🎨.
 <br />
 
 ## Stats Gerais
+  <!--
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=rarants&show_icons=true&locale=pt-br&border_radius=10px&hide_border=true&theme=radical&count_private=true&show_owner" />
   </a>
   <br />
-  <br />
+  <br />-->
   <a href="https://github.com/anuraghazra/convoychat">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rarants&locale=pt-br&hide_border=true&theme=radical&border_radius=10px&show_owner=true" />
   </a>
