@@ -7,10 +7,10 @@ desenhar 🎨.
 <br />
 ## Repositórios
   
-[![Web Scrapping em Python](https://github-readme-stats.vercel.app/api/pin/?username=rarants&repo=Web-Scraping-em-Python-PET-Redacao&theme=radical&hide_border=tru)](https://github.com/rarants/Web-Scraping-em-Python-PET-Redacao)
-[![Oficina de Introdução à Python](https://github-readme-stats.vercel.app/api/pin/?username=rarants&repo=Oficina-Python-PET-SI&theme=radical&hide_border=tru)](https://github.com/rarants/Oficina-Python-PET-SI)
-[![Usando Apache Zookeper em Python com Kazoo](https://github-readme-stats.vercel.app/api/pin/?username=rarants&repo=Estudo_Zookeeper_Kazoo&theme=radical&hide_border=tru)](https://github.com/rarants/Estudo_Zookeeper_Kazoo)
-[![JDBC Métodos CRUD](https://github-readme-stats.vercel.app/api/pin/?username=rarants&repo=Conexao_MySQL_Metodos_CRUD&theme=radical&hide_border=tru)](https://github.com/rarants/Conexao_MySQL_Metodos_CRUD)
+[![web Scrapping em Python](https://github-readme-stats.vercel.app/api/pin/?username=rarants&repo=web-scraping-em-python-pet-redacao&theme=radical&hide_border=tru)](https://github.com/rarants/Web-Scraping-em-Python-PET-Redacao)
+[![Oficina de Introdução à Python](https://github-readme-stats.vercel.app/api/pin/?username=rarants&repo=oficina-python-pet-si-ufsm&theme=radical&hide_border=tru)](https://github.com/rarants/Oficina-Python-PET-SI)
+[![Usando Apache Zookeper em Python com Kazoo](https://github-readme-stats.vercel.app/api/pin/?username=rarants&repo=zookeeper-in-python-with-kazoo&theme=radical&hide_border=tru)](https://github.com/rarants/Estudo_Zookeeper_Kazoo)
+[![JDBC Métodos CRUD](https://github-readme-stats.vercel.app/api/pin/?username=rarants&repo=onexao-mysql-java-metodos-crud&theme=radical&hide_border=tru)](https://github.com/rarants/Conexao_MySQL_Metodos_CRUD)
 <br />
 <br />
 
