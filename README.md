@@ -14,7 +14,8 @@ desenhar 🎨.
 [![Uso de RMI em Aplicação Java](https://github-readme-stats.vercel.app/api/pin/?username=rarants&repo=rmi-library&theme=radical&hide_border=tru)](https://github.com/rarants/rmi-library)
 [![Replicação Manual de Banco de Dados](https://github-readme-stats.vercel.app/api/pin/?username=rarants&repo=library-system-replication&theme=radical&hide_border=tru)](https://github.com/rarants/library-system-replication)
 [![Java MVC com Webservlets e JSP](https://github-readme-stats.vercel.app/api/pin/?username=rarants&repo=java-mvc-with-webservlets-and-jsp&theme=radical&hide_border=tru)](https://github.com/rarants/java-mvc-with-webservlets-and-jsp)
-[![Java MVC com Webservlets e JSP - POOWI Kanban](https://github-readme-stats.vercel.app/api/pin/?username=rarants&repo=poowi-promanager&theme=radical&hide_border=tru)](https://github.com/rarants/poowi-promanager)
+[![Java MVC com Webservlets e JSP - POOWI Kanban (01)](https://github-readme-stats.vercel.app/api/pin/?username=rarants&repo=poowi-promanager&theme=radical&hide_border=tru)](https://github.com/rarants/poowi-promanager)
+[![Java Spring MVC com JSP - POOWI Kanban (02)](https://github-readme-stats.vercel.app/api/pin/?username=rarants&repo=poowi-promanager02&theme=radical&hide_border=tru)](https://github.com/rarants/poowi-promanager02)
 [![Quasar App - Vuejs PWA](https://github-readme-stats.vercel.app/api/pin/?username=rarants&repo=compmvl_pwa&theme=radical&hide_border=tru)](https://github.com/rarants/compmvl_pwa)
 <br />
 <br />
