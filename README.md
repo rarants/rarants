@@ -10,6 +10,7 @@ desenhar 🎨.
 [![web Scrapping em Python](https://github-readme-stats.vercel.app/api/pin/?username=rarants&repo=web-scraping-em-python-pet-redacao&theme=radical&hide_border=tru)](https://github.com/rarants/web-scraping-em-python-pet-redacao)
 [![Oficina de Introdução à Python](https://github-readme-stats.vercel.app/api/pin/?username=rarants&repo=oficina-python-pet-si-ufsm&theme=radical&hide_border=tru)](https://github.com/rarants/oficina-python-pet-si-ufsm)
 [![Usando Apache Zookeper em Python com Kazoo](https://github-readme-stats.vercel.app/api/pin/?username=rarants&repo=zookeeper-in-python-with-kazoo&theme=radical&hide_border=tru)](https://github.com/rarants/zookeeper-in-python-with-kazoo)
+[![proManager](https://github-readme-stats.vercel.app/api/pin/?username=rarants&repo=proManager&theme=radical&hide_border=tru)](https://github.com/rarants/proManager)
 [![JDBC Métodos CRUD](https://github-readme-stats.vercel.app/api/pin/?username=rarants&repo=conexao-mysql-java-metodos-crud&theme=radical&hide_border=tru)](https://github.com/rarants/conexao-mysql-java-metodos-crud)
 [![Uso de RMI em Aplicação Java](https://github-readme-stats.vercel.app/api/pin/?username=rarants&repo=rmi-library&theme=radical&hide_border=tru)](https://github.com/rarants/rmi-library)
 [![Replicação Manual de Banco de Dados](https://github-readme-stats.vercel.app/api/pin/?username=rarants&repo=library-system-replication&theme=radical&hide_border=tru)](https://github.com/rarants/library-system-replication)
