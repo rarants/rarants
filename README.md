@@ -1,11 +1,10 @@
 <div align=center>
   
 # Meu perfil
-Sou estudante do curso de bacharelado em Sistemas de Informação e adoro aprender conteúdos novos e me atualizar. No tempo livre também gosto de jogar videogame 🎮 e
-desenhar 🎨.
+Sou bacharel em Sistemas de Informação pela Universidade Federal de Santa Maria e adoro aprender conteúdos novos, desafios, transformar ideias em realidade e programar. No tempo livre também gosto de jogar videogame, fazer cosplays e desenhar, são meus hobbies. Siga-me no Linkedin e nas redes sociais na minha bio para ficar por dentro de novidades e dos conteúdos que desenvolvo ;)
 <br />
 <br />
-## Repositórios
+## Alguns repositórios desenvolvidos na minha jornada
   
 [![web Scrapping em Python](https://github-readme-stats.vercel.app/api/pin/?username=rarants&repo=web-scraping-em-python-pet-redacao&theme=radical&hide_border=tru)](https://github.com/rarants/web-scraping-em-python-pet-redacao)
 [![Oficina de Introdução à Python](https://github-readme-stats.vercel.app/api/pin/?username=rarants&repo=oficina-python-pet-si-ufsm&theme=radical&hide_border=tru)](https://github.com/rarants/oficina-python-pet-si-ufsm)
